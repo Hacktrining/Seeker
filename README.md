@@ -5,8 +5,8 @@
       <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
     </a>
     &nbsp;
-    <a href="https://twc1rcle.com/">
-      <img src="https://img.shields.io/badge/-THE WHITE CIRCLE-black?logo=&style=for-the-badge">
+    <a href="https://www.instagram.com/alone__rider__rc_390/">
+      <img src="https://img.shields.io/badge/-INSTAGRAM-black?logo=Instagram&style=for-the-badge">
     </a>
     &nbsp;
     <a href="https://Hacktrining.github.io/">
